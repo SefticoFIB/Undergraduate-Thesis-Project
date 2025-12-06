@@ -72,7 +72,12 @@ Features:
 - Automated preprocessing and inference  
 - Prediction output: `Normal` or `Pneumonia`  
 
-> 📍 *Web App UI screenshot placeholder*
+<img width="778" height="375" alt="image" src="https://github.com/user-attachments/assets/9902bf1f-4515-42e6-9482-551ec5f89ed6" />
+<img width="779" height="376" alt="image" src="https://github.com/user-attachments/assets/b92fb48a-c975-4741-97d0-d4473b1bbcb0" />
+<img width="774" height="376" alt="image" src="https://github.com/user-attachments/assets/30d0d6fc-540d-41d3-a867-12fc64c56562" />
+
+
+
 
 ---
 
