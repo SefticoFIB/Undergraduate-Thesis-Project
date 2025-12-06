@@ -52,13 +52,17 @@ Best-performing model: **GoogLeNet**
 
 | Metric | Score |
 |--------|-------|
-| Accuracy | **96.8%** |
-| Precision | **97.3%** |
-| Recall | **96.5%** |
-| F1-Score | **96.9%** |
-| AUC | **0.987** |
+| Accuracy | **96.15%** |
+| Precision | **96.45%** |
+| Recall | **97.44%** |
+| F1-Score | **96.94%** |
+| AUC | **0.9904** |
 
-> 📍 *Confusion Matrix and ROC Curve to be inserted here*
+<img width="486" height="442" alt="image" src="https://github.com/user-attachments/assets/0398ef58-15cb-4d55-ad87-4498fd0a791c" />
+
+<img width="390" height="341" alt="image" src="https://github.com/user-attachments/assets/65a242b8-a707-4c0b-bd43-74f000f7c8f7" />
+
+
 
 ---
 
